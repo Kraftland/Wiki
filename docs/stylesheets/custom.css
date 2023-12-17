@@ -1,0 +1,31 @@
+:root {
+  --md-primary:                 #ed65e2;
+  --md-accent:                  #ed65e2;
+  --md-primary-fg-color:        #ed65e2;
+  --md-accent-fg-color:         #ed65e2;
+  --md-accent-bg-color:         #ed65e2;
+  --md-sidebar-text:            #000000;
+  /* Accent end */
+  --md-warn:                    #e5a50a;
+  
+}
+
+.dark-mode {
+  --md-primary:                 #da7de3;
+  --md-accent:                  #da7de3;
+  --md-primary-fg-color:        #da7de3;
+  --md-accent-fg-color:         #da7de3;
+  --md-accent-bg-color:         #da7de3;
+  }
+}
+
+/* Apply the variables to elements */
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+/* Additional styles for dark mode (optional) */
+@media (prefers-color-scheme: dark) {
+  /* Add styles to improve visibility in dark mode */
+}
