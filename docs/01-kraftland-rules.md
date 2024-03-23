@@ -12,7 +12,7 @@
 
 1. Kraftland 遵循私人领地不可侵犯.
 	- 擅闯私人领地者, 领地主有权击杀
-	- 领地主可在 [Meta](#kraftland-meta:moechat.kimiblock.top) 群组 (#kraftland-meta:moechat.kimiblock.top) 报告事故.
+	- 领地主可在 [General](#kraftland-main:portal.kimiblock.top) 群组 (#kraftland-main:portal.kimiblock.top) 报告事故.
 		* 请提供屏幕截图或其他可读证据.
 
 	- 次数过多将会导致帐号被封禁.
