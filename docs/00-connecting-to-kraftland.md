@@ -61,8 +61,8 @@
 
 #### 加入 Kraftland 聊天
 
-1. 从你的客户端加入 Kraftland 房间集合: `#kraftland:portal.kimiblock.top`
-2. 从你的客户端加入 General 房间: `#kraftland-main:portal.kimiblock.top`
+1. 从你的客户端加入 Kraftland 房间集合: `#kraftland:moechat.kimiblock.top`
+2. 从你的客户端加入 General 房间: `#kraftland-main:moechat.kimiblock.top`
 
 ### Telegram
 Kraftland 有半官方的 Telegram 群组, 桥接自 Matrix <del>并且还没修好</del>.
