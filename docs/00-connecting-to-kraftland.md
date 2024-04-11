@@ -2,6 +2,29 @@
 
 ## Connecting to Kraftland 
 
+![Connect](img/Minecraft/org.gnome.Connections.svg)
+
+Kraftland Offers the following addresses for connection:
+
+```
+> 
+> api.kimiblock.top or kimiblock.top
+> 
+```
+
+## Chat with us
+
+### Matrix
+
+![Chat](img/Minecraft/chat.svg)
+
+The official Kraftland Matrix room can be joined using [#kraftland:moechat.kimiblock.top](https://matrix.to/#/%23kraftland:moechat.kimiblock.top). 
+
+Banned users can appeal by joining [#kraftland-meta:moechat.kimiblock.top](https://matrix.to/#/%23kraftland-meta:moechat.kimiblock.top).
+
+### Telegram (Unofficial)
+
+There is a Telegram bridge [room](https://t.me/kraftland_bridge) available. Please note that things may go wrong and this is not supported.
 
 
 # 连接与交流
@@ -19,7 +42,7 @@
 或者
 
 > ```
-> kraftland.kimiblock.top
+> kimiblock.top
 > ```
 
 ## 连接到 Kraftland 交流
@@ -42,13 +65,13 @@
 ##### Linux
 你可能需要寻找发行版 / 社区提供的软件包或使用 Flatpak / Appimage (后者通常不推荐)
 
-如果有能力访问全球互连网, 尝试 [SchildiChat Web](https://app.schildi.chat).
+如果有能力访问全球互连网, 尝试 [Element Web](https://app.element.io).
 
 如果没有能力访问全球互连网:
 
-- 尝试 FluffyChat 桌面版
-	* 对于 Flatpak, 它的包名是 `im.fluffychat.Fluffychat`
-	* 对于 Arch Linux (AUR), 它的包名是 `aur/fluffychat-bin`
+- Fractal
+	* 对于 Flatpak, 它的包名是 `org.gnome.Fractal`
+	* 对于 Arch Linux, 它的包名是 `fractal`
 
 - 尝试 Cinny 桌面版
     * 对于 Flatpak, 它的包名是 `in.cinny.Cinny`
@@ -71,10 +94,8 @@
 2. 从你的客户端加入 General 房间: `#kraftland-main:moechat.kimiblock.top`
 
 ### Telegram
-Kraftland 有半官方的 Telegram 群组, 桥接自 Matrix <del>并且还没修好</del>.
+
+Kraftland 非官方 Telegram 群组, 桥接自 Matrix.
 
 通过 [链接](https://t.me/kraftland_bridge) 加入.
-
-### QQ (922190820)
-Kraftland QQ 群组仅作通知用, 不提供聊天服务.
 
