@@ -1,3 +1,65 @@
+# Rules
+
+## In-game
+
+![img/Minecraft/lock.svg]
+
+1. Do not grief.
+	- Land owners can kill invaders.
+	- Land owners can report incidents via our [Matrix room](#kraftland-main:moechat.kimiblock.top).
+	- Multiple incidents may get one's account banned.
+
+2. Try not to build skyscrapers, as this will block the view of other claims.
+3. Do not enter private spaces.
+4. Do not build redstone machines outside of claims. Additionally, lag machines will cause one's claim to be exposed to the public and be destroyed without notifying.
+
+## Infrastructure
+
+1. Do not grief or modify infrastructures without getting an confirmation from the Server Admin. Users who grief any infrastructure will be fined. (1 block = 100 player points)
+
+### Items
+
+![Item](img/Minecraft/gpsd-logo.svg)
+
+1. Do not carry, use or store TNT
+2. Elytras are currently banned on the server due to performance issues.
+
+### Player Interaction
+
+![P2P](img/Minecraft/accessories-character-map.svg)
+
+1. Do not harm, kill or disturb others in any circumstances.
+2. Do not give any of your account's access to others.
+
+### Punishments
+
+![Homeless](img/Minecraft/user-home.svg)
+
+When a player violates a rule badly, they may get punished by the moderation team.
+
+### Bans
+
+![Archiving](img/Minecraft/archive.svg)
+
+If a banned player has assets, it will be available to the public.
+
+### Moderation Team
+
+![Manager](img/Minecraft/manager.svg)
+
+- Skyland Members
+    * JXY23
+
+- Owner: Kimiblock_Moe
+
+## Communications
+
+![Chat](img/Minecraft/firewall-config.svg)
+
+1. Do not discuss controversial topics.
+2. All things Kraftland, no off-topic.
+3. NSFW prohibited.
+
 # Kraftland 规则
 
 ---
@@ -18,8 +80,8 @@
 	- 次数过多将会导致帐号被封禁.
 
 2. 请尽量不要让建筑的任何部分超出你的领地范围或是让建筑过高
-3. 如果建筑门口挂有 `机密设施` 之类的字样, 请勿进入.
-4. 请勿在领地外建设任何红石<del>雷石东</del>机械.
+3. 如果建筑门口挂有 `机密设施` 类似的字样, 请勿进入.
+4. 请勿在领地外建设任何红石机械, 造成服务器卡顿的机器将被摧毁.
 
 ### 公共设施
 
