@@ -24,7 +24,7 @@ Players can purchase available land claim size. The exact scale is: 1 available 
 
 ### Disclaimer
 
-Kraftland does not, and will never sell points in real money. If anyone claims that they can exchange Player Points with real money, this is a scam.
+<mark>Kraftland does not, and will never sell points in real money. If anyone claims that they can exchange Player Points with real money, this is a scam.</mark>
 
 ## Land Claim
 
@@ -42,6 +42,8 @@ To claim a land:
 - Right click the land using wooden stick to make sure it is unused
 - Hold a golden shovel and click the diagonal corner of you land
 - Done
+
+# 经济与领地
 
 ## 建设你自己的基地 (Beta)
 
@@ -83,7 +85,7 @@ To claim a land:
 
 ### 权限更改
 
-<mark>警告: 这可能导致你的领地在不知情情况下被窃贼光临甚至被炸毁! </mark>
+<mark>警告: 这可能导致你的领地在不知情情况下被窃贼光临甚至被炸毁!</mark>
 
 提示: 当 `<玩家>` 为 `all` 时将选中所有玩家.
 
