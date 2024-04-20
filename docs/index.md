@@ -8,7 +8,9 @@
 ## Vanilla
 > A substance made from the seeds of a tropical plant, used to give flavour to sweet foods
 
-Kraftland strives to offer a vanilla experience which is missing in so many online servers. Build together without griefing.
+Kraftland strives to offer a vanilla experience which is missing in so many online servers.
+
+Build together without griefing, powered by GriefPrevention.
 
 # 欢迎来到 Kraftland Docs
 ![Help](img/Minecraft/org.gnome.design.IconLibrary.svg)
