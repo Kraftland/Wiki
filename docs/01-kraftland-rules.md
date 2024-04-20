@@ -59,6 +59,9 @@ If a banned player has assets, it will be available to the public.
 1. Do not discuss controversial topics.
 2. All things Kraftland, no off-topic.
 3. NSFW prohibited.
+4. Hates are disallowed.
+5. Respect admins and players.
+6. Anti-transgender prohibited.
 
 # Kraftland 规则
 
@@ -152,6 +155,7 @@ If a banned player has assets, it will be available to the public.
 4. 前往 [Meta](#kraftland-meta:moechat.kimiblock.top) 群组对管理行为提出申辩. (#kraftland-meta:moechat.kimiblock.top)
 5. 禁止私信骚扰他人.
 6. 请注意主群不应发送表情包和梗图.
+7. 禁止对跨性别群体的不友善言论.
 
 ### Telegram
 1. 请知晓 Telegram 桥接可能不稳定.
