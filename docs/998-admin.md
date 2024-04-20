@@ -1,4 +1,4 @@
-# 管理员专用
+# Administrator Helps
 
 ![Admin](img/Minecraft/ca.desrt.dconf-editor.Devel.svg)
 
