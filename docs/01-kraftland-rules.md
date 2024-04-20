@@ -2,7 +2,7 @@
 
 ## In-game
 
-![img/Minecraft/lock.svg]
+![Lock](img/Minecraft/lock.svg)
 
 1. Do not grief.
 	- Land owners can kill invaders.
