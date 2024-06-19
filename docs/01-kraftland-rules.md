@@ -6,7 +6,7 @@
 
 1. Do not grief.
 	- Land owners can kill invaders.
-	- Land owners can report incidents via our [Moderation Room](https://matrix.to/#/#moderation:moetrix.kimiblock.top).
+	- Land owners can report incidents via our [Matrix room](#kraftland-main:moechat.kimiblock.top).
 	- Multiple incidents may get one's account banned.
 
 2. Try not to build skyscrapers, as this will block the view of other claims.
@@ -77,7 +77,7 @@ If a banned player has assets, it will be available to the public.
 
 1. Kraftland 遵循私人领地不可侵犯.
 	- 擅闯私人领地者, 领地主有权击杀
-	- 领地主可在 [#moderation:moetrix.kimiblock.top](https://matrix.to/#/#moderation:moetrix.kimiblock.top) 群组报告事故.
+	- 领地主可在 [General](#kraftland-main:moechat.kimiblock.top) 群组 (#kraftland-main:moechat.kimiblock.top) 报告事故.
 		* 请提供屏幕截图或其他可读证据.
 
 	- 次数过多将会导致帐号被封禁.
@@ -152,7 +152,7 @@ If a banned player has assets, it will be available to the public.
 1. 尽量避免在大陆不可访问的 Homeserver 注册帐号, 这可能会导致未预期的延迟与消息同步失败.
 2. 请友善用语, 尊重管理员与 Skyland 成员.
 3. 禁止涉及政治内容.
-4. 前往 [#moderation:moetrix.kimiblock.top](https://matrix.to/#/#moderation:moetrix.kimiblock.top) 群组对管理行为提出申辩.
+4. 前往 [Meta](#kraftland-meta:moechat.kimiblock.top) 群组对管理行为提出申辩. (#kraftland-meta:moechat.kimiblock.top)
 5. 禁止私信骚扰他人.
 6. 请注意主群不应发送表情包和梗图.
 7. 禁止对跨性别群体的不友善言论.
