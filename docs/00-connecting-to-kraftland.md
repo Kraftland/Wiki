@@ -1,8 +1,12 @@
 # Communicating
 
-## Connecting to Kraftland 
+## Connecting to Kraftland
+
+> Note: Kraftland is not a Mojang server. We Kraftland team is not associated with Mojang or Microsoft. We do not support the use of pirated Minecraft. If you have questions regarding Kraftland, contact our mail [kimiblock@icloud.com](mailto:kimiblock@icloud.com).
 
 ![Connect](img/Minecraft/org.gnome.Connections.svg)
+
+In order to connect to Kraftland, player must register themselves on the [Drasl Auth server](https://auth.kimiblock.top). Please be caution to backup your original skin when verifying account ownership.
 
 Kraftland Offers the following addresses for connection:
 
