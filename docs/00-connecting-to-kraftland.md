@@ -20,7 +20,7 @@ Kraftland Offers the following addresses for connection:
 
 The official Kraftland Matrix room can be joined using [#kraftland:moechat.kimiblock.top](https://matrix.to/#/%23kraftland:moechat.kimiblock.top). 
 
-Banned users can appeal by joining [#kraftland-meta:moechat.kimiblock.top](https://matrix.to/#/%23kraftland-meta:moechat.kimiblock.top).
+Banned users can appeal by joining [#moderation:kimiblock.top](https://matrix.to/#/%23moderation:kimiblock.top).
 
 ### Telegram (Unofficial)
 
