@@ -6,7 +6,7 @@
 
 ![Connect](img/Minecraft/org.gnome.Connections.svg)
 
-In order to connect to Kraftland, player must register themselves on the [Drasl Auth server](https://auth.kimiblock.top). Please be caution to backup your original skin when verifying account ownership.
+In order to connect to Kraftland, player must register themselves on the [Drasl Authenticator](https://auth.kimiblock.top). Please be careful to backup your original skin when verifying account ownership.
 
 Kraftland Offers the following addresses for connection:
 
