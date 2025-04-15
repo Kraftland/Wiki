@@ -1,8 +1,12 @@
 # Communicating
 
-## Connecting to Kraftland 
+## Connecting to Kraftland
+
+> Note: Kraftland is not a Mojang server. We Kraftland team is not associated with Mojang or Microsoft. We do not support the use of pirated Minecraft. If you have questions regarding Kraftland, contact our mail [kimiblock@icloud.com](mailto:kimiblock@icloud.com).
 
 ![Connect](img/Minecraft/org.gnome.Connections.svg)
+
+In order to connect to Kraftland, player must register themselves on the [Drasl Auth server](https://auth.kimiblock.top). Please be caution to backup your original skin when verifying account ownership.
 
 Kraftland Offers the following addresses for connection:
 
@@ -18,7 +22,7 @@ Kraftland Offers the following addresses for connection:
 
 ![Chat](img/Minecraft/chat.svg)
 
-The official Kraftland Matrix room can be joined using [#kraftland:moechat.kimiblock.top](https://matrix.to/#/%23kraftland:moechat.kimiblock.top). 
+The official Kraftland Matrix room can be joined using [#kraftland-general:tether.kimiblock.top](https://matrix.to/#/#kraftland-general:tether.kimiblock.top). 
 
 Banned users can appeal by joining [#moderation:kimiblock.top](https://matrix.to/#/%23moderation:kimiblock.top).
 
@@ -90,8 +94,8 @@ There is a Telegram bridge [room](https://t.me/kraftland_bridge) available. Plea
 
 #### 加入 Kraftland 聊天
 
-1. 从你的客户端加入 Kraftland 房间集合: `#kraftland:moechat.kimiblock.top`
-2. 从你的客户端加入 General 房间: `#kraftland-main:moechat.kimiblock.top`
+1. 从你的客户端加入 Kraftland 房间集合: `#kraftland:tether.kimiblock.top`
+2. 从你的客户端加入 General 房间: `#kraftland-general:tether.kimiblock.top`
 
 ### Telegram
 
