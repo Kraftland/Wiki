@@ -6,6 +6,8 @@
 
 ![Connect](img/Minecraft/org.gnome.Connections.svg)
 
+Kraftland requires registration beforehand for players to join.
+
 In order to connect to Kraftland, player must register themselves on the [Drasl Authenticator](https://auth.kimiblock.top). Please be careful to backup your original skin when verifying account ownership.
 
 Kraftland Offers the following addresses for connection:
@@ -36,6 +38,8 @@ There is a Telegram bridge [room](https://t.me/kraftland_bridge) available. Plea
 ## 连接到 Kraftland 世界
 
 ![Connect](img/Minecraft/org.gnome.Connections.svg)
+
+请注意: Kraftland 需要事先注册, 请联系管理员.
 
 请连接以下地址:
 
